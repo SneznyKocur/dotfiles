@@ -1,0 +1,12 @@
+2022/10/15-11:13:25.488 12c69 Reusing MANIFEST /home/jakubh/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2022/10/15-11:13:25.488 12c69 Recovering log #3
+2022/10/15-11:13:25.488 12c69 Reusing old log /home/jakubh/.config/discord/Local Storage/leveldb/000003.log 
+2022/10/15-11:15:57.896 12c6c Level-0 table #5: started
+2022/10/15-11:15:57.986 12c6c Level-0 table #5: 1135256 bytes OK
+2022/10/15-11:15:57.996 12c6c Delete type=0 #3
+2022/10/15-15:40:00.640 1cad6 Level-0 table #7: started
+2022/10/15-15:40:00.686 1cad6 Level-0 table #7: 1160937 bytes OK
+2022/10/15-15:40:00.694 1cad6 Delete type=0 #4
+2022/10/15-19:26:16.261 1cad6 Level-0 table #9: started
+2022/10/15-19:26:16.312 1cad6 Level-0 table #9: 1135914 bytes OK
+2022/10/15-19:26:16.322 1cad6 Delete type=0 #6
